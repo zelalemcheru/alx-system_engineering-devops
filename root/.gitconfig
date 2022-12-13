@@ -1,0 +1,8 @@
+[your]
+	email = zelalemcheru
+[user]
+	email = zelalemcheru@gmail.com
+	name = zelalemcheru
+[push]
+	autoSetupRemote = true
+	default = current
